@@ -1,1 +1,3 @@
-# java-embedded-python-demo
+# Java Embedded Python Tutorial
+
+## Setup 🚀 
