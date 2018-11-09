@@ -1,6 +1,7 @@
 # Java Embedded Python Tutorial
 
 ## Setup with MacOS and an IDE 🚀 
+_Other systems will be slightly different. Check https://github.com/ninia/jep/wiki and https://groups.google.com/forum/#!forum/jep-project_ for more information.
 
 1. Clone project and import it into the IDE
  - Enable Java SDK on the project
