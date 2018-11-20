@@ -39,7 +39,7 @@ public class Main {
          */
         try {
 
-            JepConfig jepConfig = new JepConfig().addSharedModules("numpy");
+            JepConfig jepConfig = new JepConfig();
             Jep jep = jepConfig.createJep();
 
             float[] f = new float[]{
